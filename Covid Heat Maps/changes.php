@@ -4,6 +4,7 @@
 	$result = mysqli_query($db, $query); 
 ?>
 
+
 <!DOCTYPE html>
 <html>
 <head>
