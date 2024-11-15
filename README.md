@@ -1,4 +1,4 @@
-[![Contributors](https://img.shields.io/github/contributors/panagiotisNK/WebDev)](https://github.com/panagiotisNK/WebDev/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/myrtwdel/Covid-Heat-Maps)](https://github.com/myrtwdel/Covid-Heat-Maps/contributors)
 
 A Web Application - University Project on crowd sourcing data for the detection and prevention of Covid-19 by monitoring traffic in local shops.
 
