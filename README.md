@@ -1,6 +1,5 @@
 [![Contributors](https://img.shields.io/github/contributors/myrtwdel/Covid-Heat-Maps)](https://github.com/myrtwdel/Covid-Heat-Maps/contributors)
 
-A Web Application - University Project on crowd sourcing data for the detection and prevention of Covid-19 by monitoring traffic in local shops.
+An interactive crowdsourcing website utilizing real-time and estimated foot traffic data to enhance public safety during the pandemic.
 
-The platform allows users to search for stores from a database, report their presence timestamp to the website and declare if they receive a positive diagnosis, to inform other users and stores.
-The interactive heat map enables users to click on store markers, revealing real-time and estimated traffic.
+This platform empowers users to monitor and report store foot traffic and COVID-19 risk. Users can search the store database, report their timestamped presence, and declare a positive diagnosis to immediately inform other users and stores. It features an interactive heat map with store markers displaying real-time and estimated traffic data.
